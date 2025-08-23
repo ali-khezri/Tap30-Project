@@ -8,10 +8,7 @@
 
 ## 🔗 Live demo
 
-```
 https://tap30-project-ali-khezri.netlify.app/
-```
-
 ---
 
 ## 🧭 About this project
